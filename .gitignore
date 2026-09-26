@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente & Segredos
+.venv/
+.env
+
+# Dados e Áudios Temporários
+data/*.json
+*.wav
+*.mp3
