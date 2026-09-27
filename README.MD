@@ -1,4 +1,4 @@
-# 🎲 D.A.D.D.Y. — Digital Assistant for Dungeon Drafting & You
+# 🎲 D.A.D.D.Y. — Database Assistant for Dumb Doubts & Yelling
 
 > **Assistente de RPG autônomo**
 
